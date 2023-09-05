@@ -7,7 +7,7 @@
   ansible.builtin.systemd:
     daemon_reload: true
 
-- name: restart "{{component}}""
+- name: restart "{{component}}"
   ansible.builtlin.service:
     name: catalogue
     state: restarted

@@ -1,4 +1,4 @@
-- name: install Redis component
+- name: Install Redis component
   hosts: redis
   become: yes
   tasks:

@@ -1,10 +1,10 @@
 CATALOGUE_HOST: catalogue.chamarthiaparna.online
-# USER_HOST: user.chamarthiaparna.online
+USER_HOST: user.chamarthiaparna.online
 # SHIPPING_HOST: shipping.chamarthiaparna.online  
 # CART_HOST: cart.chamarthiaparna.online 
 # PAYMENT_HOST: payment.chamarthiaparna.online 
 
-USER_HOST: localhost
+# USER_HOST: localhost
 SHIPPING_HOST: localhost  
 CART_HOST: localhost 
 PAYMENT_HOST: localhost

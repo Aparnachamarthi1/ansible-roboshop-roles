@@ -1,10 +1,14 @@
 CATALOGUE_HOST: catalogue.chamarthiaparna.online
-USER_HOST: user.chamarthiaparna.online
-# SHIPPING_HOST: shipping.chamarthiaparna.online  
-# CART_HOST: cart.chamarthiaparna.online 
-# PAYMENT_HOST: payment.chamarthiaparna.online 
+USER_HOST: user.chamarthiaparna.online 
+ CART_HOST: cart.chamarthiaparna.online
+ SHIPPING_HOST: shipping.chamarthiaparna.online 
+ PAYMENT_HOST: payment.chamarthiaparna.online 
+ MONGODB_HOST: mongodb.chamarthiaparna.online
+ MYSQL_HOST: mysql.chamarthiaparna.online
+ RABBITMQ_HOST: rabbitmq.chamarthiaparna.online
+ REDIS_HOST: redis.chamarthiaparna.online
+ WEB_HOST: web.chamarthiaparna.online
 
-# USER_HOST: localhost
-SHIPPING_HOST: localhost  
-CART_HOST: localhost 
-PAYMENT_HOST: localhost
+
+ 
+

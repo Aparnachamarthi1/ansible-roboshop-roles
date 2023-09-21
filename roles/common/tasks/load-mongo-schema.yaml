@@ -10,3 +10,5 @@
 
 - name: load {{component}} data
   ansible.builtin.shell: mongo --host mongodb.chamarthiaparna.online < /app/schema/{{component}}.js
+
+  
